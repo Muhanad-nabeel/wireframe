@@ -1,0 +1,75 @@
+*{
+  box-sizing: border-box;
+}
+header nav{
+background-color: rgb(49, 47, 47);
+color: #ffffff;
+width: 90%;
+height: 90px;
+margin: 10px;
+text-align: center;
+margin: 5px 50px ;
+}
+header nav ul {
+  list-style: none;
+}
+header nav  .img1{
+  padding-top: 10px;
+
+}
+header nav ul li{
+display: inline;
+padding: 5px 30px;
+vertical-align: middle;
+
+}
+header ul li a{
+  text-decoration: none;
+  color: #ffffff;
+}
+.one{
+  text-align: center;
+}
+.one img{
+  padding: 15px;
+}
+.tow{
+  width: 80%;
+  height: 80%;
+padding:0  70px;
+margin: 0 80px;
+  text-align: center;
+}
+.tow .img2{
+margin: 0px 30px 20px;
+  width: 45%;
+
+}
+
+.tow p{
+  text-transform: capitalize;
+  font-size: 30px;
+  width: 35%;
+  float: right;
+  left:0px;
+height: 100%;
+
+}
+.tow button{
+  color: white;
+  width: 150px;
+  height:30px;
+  background-color: rgb(59, 57, 57);
+}
+footer{
+  color: #ffffff;
+  background-color: rgb(87, 85, 82);
+  width: 65%;
+  height: 40px;
+  margin: 0 250px;
+  text-align: center;
+
+}
+footer h3{
+padding-top: 10px;
+}
